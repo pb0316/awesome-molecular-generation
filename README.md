@@ -12,7 +12,19 @@ Survey
 2024
 ----------
 * [Science 2024] **Generalized biomolecular modeling and design with RoseTTAFold All-Atom**  [[Paper]](https://www.science.org/doi/10.1126/science.adl2528)[[Code]](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
+* [ICLR 2024] **Hybrid Directional Graph Neural Network for Molecules**
+* [ICLR 2024] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks**
+* [AAAI 2024] **Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation**
+* [AAAI 2024] **GxVAEs: Two Joint VAEs Generate Hit Molecules from Gene Expression Profiles**
+* [AAAI 2024] **Text-Guided Molecule Generation with Diffusion Language Model**
+* [AAAI 2024] **Dual-Channel Learning Framework for Drug-Drug Interaction Prediction via Relation-Aware Heterogeneous Graph Transformer**
 
+* [AAAI 2024] Knowledge Enhanced Representation Learning for Drug Discovery
+* [AAAI 2024] Generating Novel Leads for Drug Discovery Using LLMs with Logical Feedback
+* [AAAI 2024] MKG-FENN: A Multimodal Knowledge Graph Fused End-to-End Neural Network for Accurate Drug–Drug Interaction Prediction
+* [AAAI 2024] Binding-Adaptive Diffusion Models for Structure-Based Drug Design
+* [AAAI 2024] Multilevel Attention Network with Semi-supervised Domain Adaptation for Drug-Target Prediction
+* 
 2023
 ----------
 * [ICLR 2023] **Conditional Antibody Design as 3D Equivariant Graph Translation**  [[Paper]](https://openreview.net/pdf?id=LFHFQbjxIiP)[[Code]](https://github.com/thunlp-mt/mean)
