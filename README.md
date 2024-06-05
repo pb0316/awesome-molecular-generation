@@ -68,6 +68,8 @@ Survey
 * [NeurIPS 2022] **Antigen-specific antibody design and optimization with diffusion-based generative models** [[Paper]](https://openreview.net/forum?id=jSorGn2Tjg)[[Code]](https://github.com/luost26/diffab)
 <br><br>
 * [PLOS 2022] **Ig-VAE: Generative modeling of protein structure by direct 3D coordinate generation** [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010271)[[Code]](https://github.com/ProteinDesignLab/IgVAE)
+* [JCI 2022] Transformer-based molecular optimization beyond matched molecular pairs
+
 <br><br>
 * [arXiv 2022] **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models**  [[Paper]](https://arxiv.org/abs/2205.15019v1)
 * [arXiv 2022] **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem**  [[Paper]](https://arxiv.org/abs/2206.04119v1)
