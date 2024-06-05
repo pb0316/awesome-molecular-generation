@@ -14,6 +14,7 @@ Survey
 * [Science 2024] **Generalized biomolecular modeling and design with RoseTTAFold All-Atom**  [[Paper]](https://www.science.org/doi/10.1126/science.adl2528)[[Code]](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
 * [ICLR 2024] **Hybrid Directional Graph Neural Network for Molecules**
 * [ICLR 2024] **Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks**
+* [ICLR 2024] Domain-Agnostic Molecular Generation with Chemical Feedback
 * [AAAI 2024] **Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation**
 * [AAAI 2024] **GxVAEs: Two Joint VAEs Generate Hit Molecules from Gene Expression Profiles**
 * [AAAI 2024] **Text-Guided Molecule Generation with Diffusion Language Model**
